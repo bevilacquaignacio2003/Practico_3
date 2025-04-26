@@ -1,8 +1,4 @@
 import java.time.Year;
-
-public static void main(String[] args) {
-
-}
 public class Libro {
 
     private String titulo;
